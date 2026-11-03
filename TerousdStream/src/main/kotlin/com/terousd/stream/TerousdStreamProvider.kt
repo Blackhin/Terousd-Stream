@@ -11,7 +11,7 @@ class TerousdStreamProvider : MainAPI() {
 
     override var name = "Terousd Stream"
 
-    override val lang = "en"
+    override var lang = "en"
 
     override val supportedTypes = setOf(TvType.Movie)
 
