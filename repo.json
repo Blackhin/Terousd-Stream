@@ -1,1 +1,8 @@
 
+{
+  "name": "Terousd Stream",
+  "description": "CloudStream extension repository for Terousd Stream",
+  "manifestUrl": "https://raw.githubusercontent.com/Blackhin/Terousd-Stream/builds/plugins.json",
+  "pluginLists": []
+}
+
