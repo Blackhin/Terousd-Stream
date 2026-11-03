@@ -1,0 +1,21 @@
+[
+    {
+        "fileHash": "sha256-6401fdeed6e698f0b240e39bfacce6158c9c534175d723a17390b2a0f7c17288",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Blackhin/Terousd-Stream",
+        "fileSize": 2187,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Blackhin"
+        ],
+        "tvTypes": [
+            
+        ],
+        "version": 1,
+        "internalName": "TerousdStream",
+        "description": "Terousd Stream CloudStream Plugin",
+        "url": "https://raw.githubusercontent.com/Blackhin/Terousd-Stream/builds/TerousdStream.cs3",
+        "name": "TerousdStream"
+    }
+]
